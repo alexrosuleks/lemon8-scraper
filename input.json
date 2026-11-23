@@ -1,0 +1,12 @@
+{
+  "usernames": [
+    "frankiealeron"
+  ],
+  "maxItems": 20,
+  "proxyConfiguration": {
+    "useScrapelyProxy": true,
+    "scrapelyProxyGroups": [
+      "DATACENTER"
+    ]
+  }
+}
